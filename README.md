@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![App Screenshot](https://i.ibb.co/ngzvB02/Screenshot-121.png)
+![App Screenshot](https://ibb.co/sv2cMSYb)
 
 
 ## Features
